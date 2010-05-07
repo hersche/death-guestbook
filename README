@@ -1,0 +1,9 @@
+This was a rapid-dev-project for scool. I reused a lot of the learncards-web-project (also on github).
+The Website is also the demo :)
+Normal user: test / 123456
+Admin user: test2 / 123456
+
+A normal user is a moderator (you needn't to be login for write in the guestbook), which could delete entrys.
+The admin could also create new users and also could modify them. Delete for users isn't possible yet (but soon :) )
+
+HF!
